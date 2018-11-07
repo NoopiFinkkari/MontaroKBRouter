@@ -1,0 +1,10 @@
+C:\Users\Matti\Source\repos\MontaroKBrouter2\MontaroKBrouter2\bin\Debug\MontaroKBrouter2.exe.config
+C:\Users\Matti\Source\repos\MontaroKBrouter2\MontaroKBrouter2\bin\Debug\MontaroKBrouter2.exe
+C:\Users\Matti\Source\repos\MontaroKBrouter2\MontaroKBrouter2\bin\Debug\MontaroKBrouter2.pdb
+C:\Users\Matti\Source\repos\MontaroKBrouter2\MontaroKBrouter2\obj\Debug\MontaroKBrouter2.csprojResolveAssemblyReference.cache
+C:\Users\Matti\Source\repos\MontaroKBrouter2\MontaroKBrouter2\obj\Debug\MontaroKBrouter2.Form1.resources
+C:\Users\Matti\Source\repos\MontaroKBrouter2\MontaroKBrouter2\obj\Debug\MontaroKBrouter2.Properties.Resources.resources
+C:\Users\Matti\Source\repos\MontaroKBrouter2\MontaroKBrouter2\obj\Debug\MontaroKBrouter2.csproj.GenerateResource.cache
+C:\Users\Matti\Source\repos\MontaroKBrouter2\MontaroKBrouter2\obj\Debug\MontaroKBrouter2.csproj.CoreCompileInputs.cache
+C:\Users\Matti\Source\repos\MontaroKBrouter2\MontaroKBrouter2\obj\Debug\MontaroKBrouter2.exe
+C:\Users\Matti\Source\repos\MontaroKBrouter2\MontaroKBrouter2\obj\Debug\MontaroKBrouter2.pdb
